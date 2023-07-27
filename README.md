@@ -16,3 +16,6 @@ INGREDIENTS TO MAKE YOUR VOLCANO ERUPT:
 -Vinegar
 
 Move all the ingridients in the red center and click the "Mix together" button to see reaction.
+
+https://github.com/swift19/Volcano-Science-Project-Simulator/assets/36355952/ccde823d-1ec0-456c-8b5e-f6edd6ed3633
+
